@@ -1,6 +1,6 @@
 # BE
 
-Implement ltransfer learning methods for medical research images.
+Implement transfer learning methods for medical research images.
 - VGG-16
 - Res-Net50
 
